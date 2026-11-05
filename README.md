@@ -138,7 +138,7 @@ Create and activate a virtual environment on Windows:
 
 ```bash
 python -m venv .venv
-.venv\\Scripts\\activate
+.venv\Scripts\activate
 ```
 
 Install dependencies once the `requirements.txt` file has been added:
